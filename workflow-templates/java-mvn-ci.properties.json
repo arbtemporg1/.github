@@ -1,0 +1,10 @@
+{
+    "name": "Java with Maven CI",
+    "description": "Careem's Java with Maven starter workflow.",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "pom.xml$"
+    ]
+}
